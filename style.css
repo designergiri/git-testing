@@ -1,3 +1,17 @@
+/* styles.css */
+
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #09912b;
+    text-align: center;
+}
+
 p {
-    color: red;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #0a0a0a;
 }
